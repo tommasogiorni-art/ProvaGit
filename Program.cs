@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Prova Git");
+            Console.WriteLine("Prova Commit Push");
         }
     }
 }
